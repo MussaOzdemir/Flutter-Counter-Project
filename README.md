@@ -1,4 +1,12 @@
 # flutter-counter
+//Tr
+Flutter için sıfırlanabilir bir sayaç
+
+Artı düğmesi sayacı artırır
+
+Yenile düğmesi sayacı sıfırlıyor
+
+//En
 A resetable counter for flutter
 
 Plus button increments the counter
