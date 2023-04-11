@@ -6,6 +6,8 @@ Artı düğmesi sayacı artırır
 
 Yenile düğmesi sayacı sıfırlıyor
 
+---------------------------------
+
 //En
 A resetable counter for flutter
 
